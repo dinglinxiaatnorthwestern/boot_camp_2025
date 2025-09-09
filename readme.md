@@ -6,9 +6,9 @@ This exercise will help you learn Markdown basics while sharing your background.
 ---
 
 ## 👤 Basic Info
-- **Name:** [Your Name Here]
-- **Email:** [your_email@example.com]
-- **Education:** [e.g., B.S. in , M.S. in ]
+- **Name:** Dinglin Xia
+- **Email:** dinglin.xia@northwestern.edu
+- **Education:** [e.g., B.S. in Statistics , M.S. in ]
 
 ---
 
