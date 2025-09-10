@@ -65,11 +65,13 @@ Example:
 ---
 
 ## 💻 Programming Courses Taken
-- [ ] Intro to Python  
+- [x] Intro to Python  
 - [ ] Data Structures and Algorithms  
-- [ ] Numerical Optimization  
-- [ ] Machine Learning  
-- [ ] Other: [Replace with your own]  
+- [x] Numerical Optimization  
+- [x] Machine Learning  
+- [x] Parallel Computing
+- [x] Predictive Analysis
+- [x] Data Engineering  
 
 (✅ Check the courses you’ve taken by replacing `[ ]` with `[x]`)
 
@@ -77,11 +79,11 @@ Example:
 
 ## 🧪 Previous Research Experience with Python or MATLAB
 - **Python:**  
-  - [ ] Yes → Describe: [e.g., used Python for data analysis in my thesis]  
+  - [ ] Yes → Describe: [e.g., RL for airline revenue management]  
   - [ ] No
 
 - **MATLAB:**  
-  - [ ] Yes → Describe: [e.g., used MATLAB for simulation of queueing systems]  
+  - [ ] Yes → Describe: [implemented an online learning algorithm for queuing system]  
   - [ ] No  
 
 ---
@@ -89,9 +91,9 @@ Example:
 ## 📊 Table of Skills
 | Skill/Tool    | Level (Beginner/Intermediate/Advanced) | Notes                          |
 |---------------|-----------------------------------------|--------------------------------|
-| Python        | [Your Level]                           | [Optional comment]             |
-| MATLAB        | [Your Level]                           | [Optional comment]             |
-| Git/GitHub    | [Your Level]                           | [Optional comment]             |
+| Python        | Mid                                     | [Optional comment]             |
+| MATLAB        | Mid                                    | [Optional comment]             |
+| Git/GitHub    | Mid                                      | [Optional comment]             |
 | Other Tool    | [Your Level]                           | [Replace with another tool]    |
 
 ---
