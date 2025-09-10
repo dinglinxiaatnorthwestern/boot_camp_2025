@@ -50,15 +50,17 @@ This exercise will help you learn Markdown basics while sharing your background.
 ## 👤 Basic Info
 - **Name:** Dinglin Xia
 - **Email:** dinglin.xia@northwestern.edu
-- **Education:** [e.g., B.S. in Statistics , M.S. in ]
+- **Education:** [e.g., B.S. in Statistics @the Chinese University of Hong Kong, Shenzhen, M.S. in Operations Research @Gatech]
 
 ---
 
 ## 🎓 Research Interests
-Write a few sentences (you can use *italic* or **bold** for emphasis).
+I am interested in building ML/AI-based solution for operations management problems raising from travel industry.
 
 Example:
-> *My research interests are in optimization, airline revenue management, and reinforcement learning.*
+> optimization
+> airline revenue management
+> reinforcement learning
 
 ---
 
